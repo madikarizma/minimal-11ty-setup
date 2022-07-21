@@ -2,5 +2,5 @@
 command = "npm run dev"
 
 [build]
-publish = "./dist"
+publish = "./_site"
 command = "npm run build"
