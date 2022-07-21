@@ -1,0 +1,6 @@
+[dev]
+command = "npm run dev"
+
+[build]
+publish = "./dist"
+command = "npm run build"
