@@ -7,7 +7,7 @@ const postcss = require('gulp-postcss');
 const rename = require('gulp-rename');
 
 const srcDir = './src';
-const outputDir = './dist';
+const outputDir = './_site';
 
 const deleteOutputDirectory = () => {
   return del([
